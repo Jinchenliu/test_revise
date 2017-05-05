@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Question">
+        <item name="android:textSize">@dimen/Question_textSize</item>
+        <item name="android:paddingTop">@dimen/Question_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/Question_paddingBottom</item>
+        <item name="android:textColor">@color/Question</item>
+    </style>
+    <style name="radioButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/RadioButton_textSize</item>
+        <item name="android:textColor">@color/radioButton</item>
+        <item name="android:paddingRight">@dimen/RadionButton_paddingRight</item>
+    </style>
+    <style name="checkBox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/CheckBox_paddingLeft</item>
+        <item name="android:textSize">@dimen/CheckBox_textSize</item>
+        <item name="android:textColor">@color/radioButton</item>
+    </style>
+
+</resources>
+

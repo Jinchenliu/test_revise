@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Question_textSize">24sp</dimen>
+    <dimen name="Question_paddingTop">16dp</dimen>
+    <dimen name="Question_paddingBottom">8dp</dimen>
+    <dimen name="RadioButton_textSize">18sp</dimen>
+    <dimen name="RadionButton_paddingRight">16dp</dimen>
+    <dimen name="CheckBox_textSize">18sp</dimen>
+    <dimen name="CheckBox_paddingLeft">24dp</dimen>
+    <dimen name="LinearLayout_padding">16dp</dimen>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="question_1">1. My last name is...? </string>
+    <string name="question_2">2. I was born in...?</string>
+    <string name="question_3">3. I\'ve been to...?</string>
+    <string name="question_4">4. My favorite singer is...?</string>
+    <string name="question_5">5. How old I am?</string>
+    <string name="radioButton_1">Shanghai</string>
+    <string name="radioButton_2">Wuhan</string>
+    <string name="radioButton_3">Dalian</string>
+    <string name="radioButton_4">Taylor Swift</string>
+    <string name="radioButton_5">Justin Timberlake</string>
+    <string name="editTextHint_1">three letters</string>
+    <string name="editTextHint_2">my animal sign is dog</string>
+    <string name="checkBox_1">singapore</string>
+    <string name="checkBox_2">chengdu</string>
+    <string name="checkBox_3">xiamen</string>
+    <string name="answer_name">Liu</string>
+    <string name="answer_age">22</string>
+    <string name="result_right">Right!</string>
+    <string name="result_wrong">Wrong!</string>
+    <string name="submit">Submit</string>
+</resources>
